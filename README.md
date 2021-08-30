@@ -1,0 +1,2 @@
+# icons
+vmIcons and dockerIcons
